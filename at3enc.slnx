@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="at3enc.vcxproj" Id="3e36f138-b811-4ad4-9fc7-3c48263b3802" />
+</Solution>
